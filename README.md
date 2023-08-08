@@ -8,7 +8,7 @@
 <td align="center"><a href="https://github.com/kmsu44"><img src="https://avatars.githubusercontent.com/u/45655623?v=4" width="100px;" alt=""/><br /><sub><b>kmsu44</b></sub></a></td>
 <td align="center"><a href="https://github.com/yiReal"><img src="https://avatars.githubusercontent.com/u/116516376?v=4" width="100px;" alt=""/><br /><sub><b>yiReal</b></sub></a></td>
 <td align="center"><a href="https://github.com/masonkimseoul"><img src="https://avatars.githubusercontent.com/u/87306418?v=4" width="100px;" alt=""/><br /><sub><b>masonkimseoul</b></sub></a></td>
-<td align="center"><a href="#"><img src="#" width="100px;" alt=""/><br /><sub><b>최예린</b></sub></a></td>
+<td align="center"><a href="https://github.com/RightHennessy"><img src="https://avatars.githubusercontent.com/u/88828858?v=4" width="100px;" alt=""/><br /><sub><b>최예린</b></sub></a></td>
 <td align="center"><a href="https://github.com/therealjamesjung"><img src="https://avatars.githubusercontent.com/u/39877377?v=4" width="100px;" alt=""/><br /><sub><b>therealjamesjung</b></sub></a></td>
 </tr>
 </table>
