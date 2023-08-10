@@ -1,0 +1,1 @@
+SELECT * from PLACES WHERE HOST_ID IN (SELECT HOST_ID from PLACES group by HOST_ID having count(*)>1)
