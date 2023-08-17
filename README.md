@@ -47,7 +47,11 @@
 |  1   |                2017 팁스타운                |      [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      | Lv. 2 | ✔️   |
 |  1   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |  [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)  | Lv. 3 | ✔️   |
 |  1   |         Summer/Winter Coding(~2018)         |         [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)         | Lv. 3 | ✔️   |
-|  2   |                  연습문제                   |        [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)        | Lv. 2 |
+|  2   |                  연습문제                   |        [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)        | Lv. 2 | ✔️|
 |  2   |                  연습문제                   |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | Lv. 2 | ✔️|
 |  2   |        2023 KAKAO BLIND RECRUITMENT         |         [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)          | Lv. 3 |✔️|
 |  2   |                  연습문제                   | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | Lv. 3 |✔️|
+|  3   |                  연습문제                   |        [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)        | Lv. 2 | |
+|  3   |                  2022 KAKAO TECH INTERNSHIP                   |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)   | Lv. 2 | |
+|  3   |        2022 KAKAO BLIND RECRUITMENT         |   [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)      | Lv. 3 | |
+|  3   |    2022 KAKAO BLIND RECRUITMENT       | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | Lv. 3 | |
