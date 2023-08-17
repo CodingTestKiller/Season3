@@ -48,6 +48,6 @@
 |  1   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |  [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)  | Lv. 3 | ✔️   |
 |  1   |         Summer/Winter Coding(~2018)         |         [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)         | Lv. 3 | ✔️   |
 |  2   |                  연습문제                   |        [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)        | Lv. 2 |
-|  2   |                  연습문제                   |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | Lv. 2 |
-|  2   |        2023 KAKAO BLIND RECRUITMENT         |         [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)          | Lv. 3 |
-|  2   |                  연습문제                   | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | Lv. 3 |
+|  2   |                  연습문제                   |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | Lv. 2 | ✔️|
+|  2   |        2023 KAKAO BLIND RECRUITMENT         |         [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)          | Lv. 3 |✔️|
+|  2   |                  연습문제                   | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | Lv. 3 |✔️|
