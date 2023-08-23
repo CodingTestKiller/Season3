@@ -30,5 +30,4 @@ def solution(plans):
         answer.append(waitings[-1][0])
         waitings.pop()
               
-    
     return answer
