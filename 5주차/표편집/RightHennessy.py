@@ -1,38 +1,51 @@
+class Node :
+    def __init__(self,left = None,right = None):
+        self.remove = False
+        self.left = left
+        self.right = right
+
 def solution(n, k, cmd):
-
-    now = k
-    size = n
+    table = [Node(i-1,i+1) for i in range(n)]
+    table[0].left= None
+    table[n - 1].right = None
+    cursor = k
     stack = []
-    stack_count = []
-    answer = ['O']*n
-
     for command in cmd:
-        print(stack)
-        print(stack_count)
-        if command[0] == 'D':
-            now += int(command.split(' ')[-1])
-        elif command[0] == 'U':
-            now -= int(command.split(' ')[-1])
-        elif command[0] == 'Z':
-            size += 1
-            stack_count.pop()
-            if stack.pop() <= now:
-                now += 1
+        if command[0] == 'U':
+            move = command.split()[1]
+            for _ in range(int(move)):
+                cursor = table[cursor].left
+        elif command[0] == 'D':
+            move = command.split()[1]
+            for _ in range(int(move)):
+                cursor = table[cursor].right
         elif command[0] == 'C':
-            c = 0
-            for s in stack:
-                if now >= s:
-                    c += 1
-            stack.append(now)
-            size -= 1
-            stack_count.append(c)
-            if now == size:
-                now -= 1
+            stack.append(cursor)
+            table[cursor].remove = True
 
-    while stack:
-        idx = stack.pop() + stack_count.pop()
-        answer[idx] = 'X'
+            l,r = table[cursor].left , table[cursor].right
 
-    return ''.join(answer)
+            if l or l == 0:
+                table[l].right = r
+            if r:
+                table[r].left = l
+                cursor = r
+            else:
+                cursor = l
+        elif command[0] == 'Z':
+            c = stack.pop()
+            table[c].remove = False
 
-print(solution(8, 2, ["D 2","C","U 3","C","D 4","C","U 2","Z","Z","U 1","C"]))
+            l,r = table[c].left,table[c].right
+            if l:
+                table[l].right =c
+            if r:
+                table[r].left = c
+
+    answer = ""
+    for i in range(n):
+        if table[i].remove :
+            answer += "X"
+        else:
+            answer += "O"
+    return answer
