@@ -61,7 +61,11 @@
 |  5   |                위클리 챌린지                |     [교점의 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)      | Lv. 2 | ✔️   |
 |  5   |        2021 카카오 채용연계형 인턴십        |          [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)          | Lv. 3 | ✔️   |
 |  5   |        2021 KAKAO BLIND RECRUITMENT         |         [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)         | Lv. 3 | ✔️   |
-|  6   |        2019 KAKAO BLIND RECRUITMENT         |          [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Lv. 2 |      |
-|  6   |        2018 KAKAO BLIND RECRUITMENT         |         [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)          | Lv. 2 |      |
-|  6   |           월간 코드 챌린지 시즌 2           |        [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)         | Lv. 3 |      |
-|  6   |           월간 코드 챌린지 시즌 2           |     [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)     | Lv. 3 |      |
+|  6   |        2019 KAKAO BLIND RECRUITMENT         |          [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Lv. 2 | ✔️   |
+|  6   |        2018 KAKAO BLIND RECRUITMENT         |         [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)          | Lv. 2 | ✔️   |
+|  6   |           월간 코드 챌린지 시즌 2           |        [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)         | Lv. 3 | ✔️   |
+|  6   |           월간 코드 챌린지 시즌 2           |     [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)     | Lv. 3 | ✔️   |
+|  7   |                  연습문제                   |     [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)     | Lv. 2 |      |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |           [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | Lv. 2 |      |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |         [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)          | Lv. 3 |      |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |        [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)        | Lv. 3 |
