@@ -39,36 +39,40 @@
 
 ## 주차별 문제
 
-| 주차 |                    기출                     |                                           문제이름                                           | 레벨  | 완료 |
-| :--: | :-----------------------------------------: | :------------------------------------------------------------------------------------------: | ----- | ---- |
-|  1   |           월간 코드 챌린지 시즌1            |    [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | Lv. 2 | ✔️   |
-|  1   |                2017 팁스타운                |      [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)      | Lv. 2 | ✔️   |
-|  1   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |  [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)  | Lv. 3 | ✔️   |
-|  1   |         Summer/Winter Coding(~2018)         |         [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)         | Lv. 3 | ✔️   |
-|  2   |                  연습문제                   |        [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)        | Lv. 2 | ✔️   |
-|  2   |                  연습문제                   |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)   | Lv. 2 | ✔️   |
-|  2   |        2023 KAKAO BLIND RECRUITMENT         |         [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)          | Lv. 3 | ✔️   |
-|  2   |                  연습문제                   | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | Lv. 3 | ✔️   |
-|  3   |                  연습문제                   |      [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)       | Lv. 2 | ✔️   |
-|  3   |         2022 KAKAO TECH INTERNSHIP          |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)   | Lv. 2 | ✔️   |
-|  3   |        2022 KAKAO BLIND RECRUITMENT         |    [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)     | Lv. 3 | ✔️   |
-|  3   |        2022 KAKAO BLIND RECRUITMENT         |         [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)         | Lv. 3 | ✔️   |
-|  4   |                  연습문제                   |  [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   | Lv. 2 | ✔️   |
-|  4   |                  연습문제                   |        [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)         | Lv. 2 | ✔️   |
-|  4   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |     [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)      | Lv. 3 | ✔️   |
-|  4   |                  연습문제                   |         [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)         | Lv. 3 | ✔️   |
-|  5   |                  연습문제                   |     [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)     | Lv. 2 | ✔️   |
-|  5   |                위클리 챌린지                |     [교점의 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)      | Lv. 2 | ✔️   |
-|  5   |        2021 카카오 채용연계형 인턴십        |          [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)          | Lv. 3 | ✔️   |
-|  5   |        2021 KAKAO BLIND RECRUITMENT         |         [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)         | Lv. 3 | ✔️   |
-|  6   |        2019 KAKAO BLIND RECRUITMENT         |          [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Lv. 2 | ✔️   |
-|  6   |        2018 KAKAO BLIND RECRUITMENT         |         [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)          | Lv. 2 | ✔️   |
-|  6   |           월간 코드 챌린지 시즌 2           |        [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)         | Lv. 3 | ✔️   |
-|  6   |           월간 코드 챌린지 시즌 2           |     [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)     | Lv. 3 | ✔️   |
-|  7   |                  연습문제                   |     [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)     | Lv. 2 | ✔️   |
-|  7   |        2018 KAKAO BLIND RECRUITMENT         |           [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | Lv. 2 | ✔️   |
-|  7   |        2018 KAKAO BLIND RECRUITMENT         |         [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)          | Lv. 3 | ✔️   |
-|  7   |        2018 KAKAO BLIND RECRUITMENT         |        [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)        | Lv. 3 | ✔️   |
-|  8   |                  연습문제                   |       [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)        | Lv. 2 |      |
-|  8   |        2021 KAKAO BLIND RECRUITMENT         |         [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)         | Lv. 2 |      |
-|  8   |         2022 KAKAO TECH INTERNSHIP          |     [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)      | Lv. 3 |      |
+| 주차 |                    기출                     |                                           문제이름                                            | 레벨  | 완료 |
+| :--: | :-----------------------------------------: | :-------------------------------------------------------------------------------------------: | ----- | ---- |
+|  1   |           월간 코드 챌린지 시즌1            |     [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)     | Lv. 2 | ✔️   |
+|  1   |                2017 팁스타운                |      [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)       | Lv. 2 | ✔️   |
+|  1   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |  [헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)   | Lv. 3 | ✔️   |
+|  1   |         Summer/Winter Coding(~2018)         |         [숫자 게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)          | Lv. 3 | ✔️   |
+|  2   |                  연습문제                   |        [요격시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)         | Lv. 2 | ✔️   |
+|  2   |                  연습문제                   |   [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)    | Lv. 2 | ✔️   |
+|  2   |        2023 KAKAO BLIND RECRUITMENT         |          [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)          | Lv. 3 | ✔️   |
+|  2   |                  연습문제                   | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)  | Lv. 3 | ✔️   |
+|  3   |                  연습문제                   |       [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)       | Lv. 2 | ✔️   |
+|  3   |         2022 KAKAO TECH INTERNSHIP          |   [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)    | Lv. 2 | ✔️   |
+|  3   |        2022 KAKAO BLIND RECRUITMENT         |     [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)     | Lv. 3 | ✔️   |
+|  3   |        2022 KAKAO BLIND RECRUITMENT         |         [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)          | Lv. 3 | ✔️   |
+|  4   |                  연습문제                   |   [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   | Lv. 2 | ✔️   |
+|  4   |                  연습문제                   |         [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)         | Lv. 2 | ✔️   |
+|  4   | 2021 Dev-Matching: 웹 백엔드 개발자(상반기) |      [다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)      | Lv. 3 | ✔️   |
+|  4   |                  연습문제                   |         [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)          | Lv. 3 | ✔️   |
+|  5   |                  연습문제                   |     [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)      | Lv. 2 | ✔️   |
+|  5   |                위클리 챌린지                |      [교점의 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)      | Lv. 2 | ✔️   |
+|  5   |        2021 카카오 채용연계형 인턴십        |          [표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)           | Lv. 3 | ✔️   |
+|  5   |        2021 KAKAO BLIND RECRUITMENT         |         [광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)          | Lv. 3 | ✔️   |
+|  6   |        2019 KAKAO BLIND RECRUITMENT         |           [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Lv. 2 | ✔️   |
+|  6   |        2018 KAKAO BLIND RECRUITMENT         |          [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)          | Lv. 2 | ✔️   |
+|  6   |           월간 코드 챌린지 시즌 2           |         [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)         | Lv. 3 | ✔️   |
+|  6   |           월간 코드 챌린지 시즌 2           |     [모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)      | Lv. 3 | ✔️   |
+|  7   |                  연습문제                   |     [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)      | Lv. 2 | ✔️   |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |            [캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | Lv. 2 | ✔️   |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |          [셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)          | Lv. 3 | ✔️   |
+|  7   |        2018 KAKAO BLIND RECRUITMENT         |        [추석 트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)         | Lv. 3 | ✔️   |
+|  8   |                  연습문제                   |        [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)        | Lv. 2 | ✔️   |
+|  8   |        2021 KAKAO BLIND RECRUITMENT         |         [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)          | Lv. 2 | ✔️   |
+|  8   |         2022 KAKAO TECH INTERNSHIP          |      [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)      | Lv. 3 | ✔️   |
+|  9   |        2022 KAKAO BLIND RECRUITMENT         |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       | Lv. 2 |      |
+|  9   |                  연습문제                   |        [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)        | Lv. 2 |      |
+|  9   |             2020 카카오 인턴십              |         [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)          | Lv. 3 |      |
+|  10  |        2022 KAKAO BLIND RECRUITMENT         | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Lv. 2 |      |
