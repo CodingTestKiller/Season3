@@ -15,27 +15,27 @@
 
 ## 규칙
 
--   변수명과 로직을 명확하게 해서 가독성이 좋고 일관된 코드를 작성하도록 노력
--   시간과 공간사용을 항상 생각하면서 문제를 해결하도록 노력
--   일주일안에 정해진 문제 못풀면 벌금 2만원
--   수요일 23:59분까지 PR 보내기
--   개인 브랜치 생성 후 main으로 풀리퀘 보내기
--   자신이 가장 깊게 고민하고, 스터디원에게 공유하고싶은 내용이 있는 문제를 선정하여 회의 시간에 발표.
--   발표는 최대한 자세히 진행 (접근방법, 난관, 해결법, 결론 등)
+- 변수명과 로직을 명확하게 해서 가독성이 좋고 일관된 코드를 작성하도록 노력
+- 시간과 공간사용을 항상 생각하면서 문제를 해결하도록 노력
+- 일주일안에 정해진 문제 못풀면 벌금 2만원
+- 수요일 23:59분까지 PR 보내기
+- 개인 브랜치 생성 후 main으로 풀리퀘 보내기
+- 자신이 가장 깊게 고민하고, 스터디원에게 공유하고싶은 내용이 있는 문제를 선정하여 회의 시간에 발표.
+- 발표는 최대한 자세히 진행 (접근방법, 난관, 해결법, 결론 등)
 
 ## 폴더 구조
 
--   `/[주차별]/[문제 이름]/[깃허브아이디].py`
--   ex) `/1주차/두큐합같게만들기/kmsu44.py`
--   문제 이름은 전부 다 띄어쓰기 없이 만들기
--   폴더명 이상하면 PR Reject 합니다
+- `/[주차별]/[문제 이름]/[깃허브아이디].py`
+- ex) `/1주차/두큐합같게만들기/kmsu44.py`
+- 문제 이름은 전부 다 띄어쓰기 없이 만들기
+- 폴더명 이상하면 PR Reject 합니다
 
 ## PR 규칙
 
--   [이름] / 문제 이름 | ex) [정재경] / 문제 1, 문제 2, 문제 3
--   커밋 메세지 - [문제 이름] / [걸린 시간] ex) 오리 / 1h 20m
--   Assignee - 자신
--   Labels - 푼 문제의 알고리즘 분류 | ex) 1주차
+- [이름] / 문제 이름 | ex) [정재경] / 문제 1, 문제 2, 문제 3
+- 커밋 메세지 - [문제 이름] / [걸린 시간] ex) 오리 / 1h 20m
+- Assignee - 자신
+- Labels - 푼 문제의 알고리즘 분류 | ex) 1주차
 
 ## 주차별 문제
 
@@ -72,7 +72,9 @@
 |  8   |                  연습문제                   |        [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)        | Lv. 2 | ✔️   |
 |  8   |        2021 KAKAO BLIND RECRUITMENT         |         [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)          | Lv. 2 | ✔️   |
 |  8   |         2022 KAKAO TECH INTERNSHIP          |      [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)      | Lv. 3 | ✔️   |
-|  9   |        2022 KAKAO BLIND RECRUITMENT         |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       | Lv. 2 |      |
-|  9   |                  연습문제                   |        [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)        | Lv. 2 |      |
-|  9   |             2020 카카오 인턴십              |         [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)          | Lv. 3 |      |
+|  9   |        2022 KAKAO BLIND RECRUITMENT         |       [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       | Lv. 2 | ✔️   |
+|  9   |                  연습문제                   |        [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)        | Lv. 2 | ✔️   |
+|  9   |             2020 카카오 인턴십              |         [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)          | Lv. 3 | ✔️   |
 |  10  |        2022 KAKAO BLIND RECRUITMENT         | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Lv. 2 |      |
+|  10  |                  연습문제                   |    [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)     | Lv. 2 |      |
+|  10  |           월간 코드 챌린지 시즌1            |       [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)        | Lv.3  |      |
